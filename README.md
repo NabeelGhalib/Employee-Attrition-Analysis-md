@@ -2,7 +2,7 @@
 
 This repository contains -   
 
-* Employee Attrition Analysis(RStudio) pdf file -
+* Employee Attrition Analysis(RStudio) pdf file -  
    [https://github.com/NabeelGhalib/Employee-Attrition-Analysis-md/blob/main/Employee_attrition_analysis_markdown.pdf],   
 
 * Dashboards -
@@ -10,7 +10,7 @@ This repository contains -
    
 2. [https://github.com/NabeelGhalib/Employee-Attrition-Analysis-md/blob/main/Employee%20Attrition%20Dashboard%202.png],     
 
-* Tableau link -
+* Tableau link -  
    [https://public.tableau.com/views/EmployeeAttritionClean/EmployeeAttritionDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link].  
 
 
